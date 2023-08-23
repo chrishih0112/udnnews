@@ -763,5 +763,6 @@ time {
 .statement {font-size: 1.6rem; color: #8B8F94; padding-top: 20px; font-weight: 400;}
 
 .content_top {
-  
+  display: flex;
+
 }
